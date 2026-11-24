@@ -1,0 +1,6 @@
+{
+  "name": "MotoRide Auto",
+  "description": "Motorcycle Android Auto riding cockpit with Google Maps turn-by-turn navigation, two-wheeler route planning, nearby rider stops, and glove-friendly telemetry.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
